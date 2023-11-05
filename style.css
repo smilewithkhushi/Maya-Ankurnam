@@ -1,0 +1,23 @@
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 600px;
+    padding-top: 100px;
+    background: url("assets/bg1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#aboutpg{
+    background-image: url("assets/bg3.png");
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
